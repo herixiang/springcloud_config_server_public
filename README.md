@@ -1,2 +1,1 @@
 # springcloud_config_server_public
-这是我的公库
